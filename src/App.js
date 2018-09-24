@@ -68,7 +68,7 @@ class App extends Component {
     this.setState({
       score: 0,
       topScore: this.state.topScore,
-      message: "Nope!",
+      message: "EWWW! So Close",
       clicked: []
     })
     // should shuffle
